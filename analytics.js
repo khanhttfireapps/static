@@ -3,7 +3,7 @@ var _paq = window._paq || [];
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
 (function() {
-var u="//localhost:9000/";
+var u="http://localhost:9000/";
 _paq.push(['setTrackerUrl', u+'matomo.php']);
 _paq.push(['setSiteId', '2']);
 _paq.push(['trackAllContentImpressions']);
